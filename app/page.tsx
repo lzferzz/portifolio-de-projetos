@@ -46,13 +46,11 @@ export default function Portfolio() {
           </div>
 
           {/* Main Title */}
-          <h1 className="text-4xl md:text-5xl font-bold text-slate-700 mb-6">Eu ensino Programação</h1>
+          <h1 className="text-4xl md:text-5xl font-bold text-slate-700 mb-6">Eu estou aprendendo programação</h1>
 
           {/* Description */}
           <p className="text-slate-600 text-lg leading-relaxed mb-8 max-w-3xl mx-auto">
-            Sou Engenheira de Computação e Pedagoga. Ensino pensamento computacional para estudantes do Ensino
-            Fundamental e Médio. Ensino sobre pensamento computacional usando HTML, CSS e JavaScript. Veja os projetos
-            que já desenvolvi!
+           Meu nome e luiz e estou apredendo programação!
           </p>
 
           {/* Skills Section */}
